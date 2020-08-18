@@ -1,6 +1,6 @@
 classes = 11
-train  = !TestTrain/train.txt
-valid  = !TestTrain/test.txt
+train  = sign-recognition-dataset/train.txt
+valid  = sign-recognition-dataset/test.txt
 names = obj.names
 backup = backup/
 
