@@ -1,0 +1,1 @@
+This file exists so that git stores /backup folder in repository - required to backup weights in training
