@@ -1,1 +1,1 @@
-./darknet detector train obj.data yolov3-tiny.cfg -dont-show
+./darknet detector train obj.data yolov3-tiny.cfg -dont_show
