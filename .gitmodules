@@ -1,3 +1,0 @@
-[submodule "sign-recognition-dataset"]
-	path = sign-recognition-dataset
-	url = https://github.com/wodyjowski/sign-recognition-dataset.git
